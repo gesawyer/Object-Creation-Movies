@@ -1,0 +1,13 @@
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\bin\Debug\netcoreapp3.1\MovieObjects.exe
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\bin\Debug\netcoreapp3.1\MovieObjects.deps.json
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\bin\Debug\netcoreapp3.1\MovieObjects.runtimeconfig.json
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\bin\Debug\netcoreapp3.1\MovieObjects.runtimeconfig.dev.json
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\bin\Debug\netcoreapp3.1\MovieObjects.dll
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\bin\Debug\netcoreapp3.1\MovieObjects.pdb
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\obj\Debug\netcoreapp3.1\MovieObjects.csprojAssemblyReference.cache
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\obj\Debug\netcoreapp3.1\MovieObjects.AssemblyInfoInputs.cache
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\obj\Debug\netcoreapp3.1\MovieObjects.AssemblyInfo.cs
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\obj\Debug\netcoreapp3.1\MovieObjects.csproj.CoreCompileInputs.cache
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\obj\Debug\netcoreapp3.1\MovieObjects.dll
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\obj\Debug\netcoreapp3.1\MovieObjects.pdb
+C:\Users\grace\OneDrive\Desktop\MovieObjects\MovieObjects\obj\Debug\netcoreapp3.1\MovieObjects.genruntimeconfig.cache
